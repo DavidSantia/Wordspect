@@ -1,0 +1,174 @@
+.commentList {
+    margin-left: 15px;
+}
+
+.main-panel {
+    margin-top: 16px;
+    margin-left: 5px;
+    top: 0px;
+    height: 100%;
+    position: fixed;
+    z-index: 5;
+}
+
+.editor-track-panel {
+    top: 4px;
+    left: 358px;
+    height: 50px;
+    position: fixed;
+    z-index: 20;
+}
+
+.editor-module-buttons {
+    background-color: #ffffff;
+    border: 1px solid #c2c2c2;
+    padding: 6px;
+}
+
+.editor-right-panel {
+    margin-right: -100px;
+    right: 105px;
+    top: 5px;
+    width: 145px;
+    position: fixed;
+    height: 100%;
+    z-index: 25;
+}
+
+.projects-panel {
+    margin-top: 60px;
+    margin-left: 40px;
+    left: inherit;
+    position: fixed;
+    z-index: 20;
+}
+
+.projects-checkbox {
+    padding-top: 5px;
+}
+
+.projects-table th {
+    padding-top: 8px;
+}
+
+.projects-table td {
+    background-color: #ffffd4;
+    border: 1px solid #c2c2c2;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+.import-button-panel {
+    margin-top: 58px;
+    margin-left: 40px;
+    left: inherit;
+    position: fixed;
+    z-index: 20;
+}
+
+.import-buttons td {
+    padding: 5px;
+}
+
+.targets-button-panel {
+    margin-top: 58px;
+    margin-left: 40px;
+    left: inherit;
+    position: fixed;
+    z-index: 20;
+}
+
+.targets-buttons td {
+    padding: 5px;
+}
+
+.updates-panel {
+    margin-top: 60px;
+    margin-left: 30px;
+    left: inherit;
+    position: fixed;
+    z-index: 20;
+}
+
+.updates-table td {
+    background-color: #f0ffff;
+    border: 1px solid #c2c2c2;
+    padding: 3px;
+}
+
+.settings-selector {
+    top: 4px;
+    left: 381px;
+    height: 50px;
+    position: fixed;
+    z-index: 20;
+}
+
+.settings-notifications-panel {
+    margin-top: 66px;
+    margin-left: 40px;
+    left: inherit;
+    position: fixed;
+    z-index: 20;
+}
+
+.settings-notifications-buttons td {
+    padding: 5px;
+}
+
+.settings-users-panel {
+    margin-top: 180px;
+    margin-left: 45px;
+    left: inherit;
+    position: fixed;
+    z-index: 20;
+}
+
+.settings-users-table td {
+    background-color: #f0ffff;
+    border: 1px solid #c2c2c2;
+    padding: 3px;
+}
+
+code {
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    font-family: "Bitstream Vera Sans Mono", Consolas, Courier, monospace;
+    font-size: 12px;
+    margin: 0 2px;
+    padding: 0px 5px;
+}
+
+h1, h2, h3, h4 {
+    font-weight: bold;
+    margin: 0 0 15px;
+    padding: 0;
+}
+
+h1 {
+    border-bottom: 1px solid #ddd;
+    font-size: 2.5em;
+    font-weight: bold;
+    margin: 0 0 15px;
+    padding: 0;
+}
+
+h2 {
+    border-bottom: 1px solid #eee;
+    font-size: 2em;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+h4 {
+    font-size: 1.2em;
+}
+
+p {
+    margin: 15px 0;
+    font-size:12px;
+}
+
